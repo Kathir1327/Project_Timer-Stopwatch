@@ -27,7 +27,7 @@ Front-End
 
 ## ✍ Author
 
-- [Ishu khan](https://github.com/ishukhan)
+- [Ks Kathir](https://github.com/ishukhan)
 
 <br>
 
