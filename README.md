@@ -1,4 +1,4 @@
-# PROJECT_COUNTER_APPLICATION
+# PROJECT_TIMER-STOPWATCH
 
 ## 📖 Task 1 - Stopwatch and Timer
 
